@@ -1,0 +1,20 @@
+.banner_slide_item {
+  height: 100vh;
+  max-width: 100%;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white; }
+
+.transparent_layer {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  bottom: 0;
+  width: 100%; }
+
+.banner_capt {
+  font-size: 2.2rem; }
+
+.banner_text {
+  font-size: 1.5rem; }
